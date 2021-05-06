@@ -1,0 +1,2 @@
+Prefix plugins/UniqueGroups/example/
+Plugin UniqueGroups inputfile sample_data.csv outputfile groups.unique.txt
